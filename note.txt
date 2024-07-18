@@ -1,0 +1,4 @@
+symbolic link cpanel
+
+1. masuk ke folder public project dulu
+2. ln -s /home/tvwj4715/public_html/cms/storage/app/public storage
